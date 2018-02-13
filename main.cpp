@@ -19,7 +19,14 @@ cin>>first_name;
 cout<<"What's your last name"<<endl;
 cin>>last_name;
 
-  //tell fortune
+cout<<"Welcome "<<first_name[0]<<"."<<last_name[0]<<"."<<", here is your fortune..."<<endl;
+
+
+
+
+//tell fortune
+
+
 
   return 0;
 }

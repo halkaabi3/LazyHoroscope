@@ -15,10 +15,10 @@ int lucky;
 
 //get user input
 
-cout<<"What's your first name"<<endl;
+cout<<"What is your first name"<<endl;
 cin>>first_name;
 
-cout<<"What's your last name"<<endl;
+cout<<"What is your last name"<<endl;
 cin>>last_name;
 
 //tell fortune
@@ -35,7 +35,7 @@ cout<<"You are destined to be famous!!"<<endl;
 
 else {
 
-cout<<"You should keep a low profile"<<endl;
+cout<<"you should keep a low profile."<<endl;
 
 }
 
@@ -55,7 +55,7 @@ cout<<"You have already met your true love"<<endl;
 
 else{}
 
-cout<<"Have a good day !"<<endl;
+cout<<"have a good day!"<<endl;
 
   return 0;
 }

@@ -30,7 +30,7 @@ cout<<"your lucky number is "<<first_name.length()<<endl;
 if (first_name[0] == 'U' || first_name[0] == 'u' || first_name[0] == 'A' || first_name[0] == 'a' || first_name[0] == 'E' || first_name[0] == 'e' || first_name[0] == 'I' || first_name[0] == 'i' || first_name[0] == 'O' || first_name[0] == 'o')
 
 {
-cout<<"You are destined to be famous!!"<<endl;
+cout<<"You are destined to be famous!"<<endl;
 }
 
 else {
@@ -47,7 +47,7 @@ if ( last_name[last_name.length() - 1] == 'a' || last_name[last_name.length() - 
 {
 
 
-cout<<"You have already met your true love"<<endl;
+cout<<"You have already met your true love."<<endl;
 
 
 }

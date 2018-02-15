@@ -15,15 +15,15 @@ int lucky;
 
 //get user input
 
-cout<<"What is your first name"<<endl;
+cout<<"What is your first name?"<<endl;
 cin>>first_name;
 
-cout<<"What is your last name"<<endl;
+cout<<"What is your last name?"<<endl;
 cin>>last_name;
 
 //tell fortune
 
-cout<<"Welcome "<<first_name[0]<<"."<<last_name[0]<<"."<<", here is your fortune..."<<endl;
+cout<<"Welcome, "<<first_name[0]<<"."<<last_name[0]<<"."<<", here is your fortune..."<<endl;
 
 cout<<"your lucky number is "<<first_name.length()<<endl;
 
